@@ -1,0 +1,7 @@
+{
+  "name": "StyleDecomp - AI Outfit Analyzer",
+  "description": "An intelligent fashion assistant that analyzes photos to decompose outfits into individual items with style insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
